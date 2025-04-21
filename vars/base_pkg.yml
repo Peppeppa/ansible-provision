@@ -1,0 +1,8 @@
+---
+base_packages:
+  - git
+  - ansible
+  - neovim
+  - base-devel
+  - sudo
+  - networkmanager
